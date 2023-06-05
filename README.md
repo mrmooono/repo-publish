@@ -3,3 +3,4 @@
 
 """안기모"""
 
+git pull = git fatch + git merge
